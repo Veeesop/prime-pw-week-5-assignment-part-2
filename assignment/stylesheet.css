@@ -1,13 +1,13 @@
-header {
+.header {
     background-color: darkblue;
     text-align: center;
 }
 
-h1 {
+.title {
     color: lightblue;
 }
 
-main {
+.main {
     background-color: lightgray;
     padding: 1em;
 }
