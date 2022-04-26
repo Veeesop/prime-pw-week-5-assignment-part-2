@@ -6,3 +6,14 @@ header {
 h1 {
     color: lightblue;
 }
+
+main {
+    background-color: lightgray;
+    padding: 1em;
+}
+
+body{
+    margin: 0;
+    background-image: url('record.png');
+    background-repeat: repeat;
+}
